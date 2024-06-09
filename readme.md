@@ -1,6 +1,6 @@
 ```mermaid
 graph TD;
-    A-->B;
+    A-->B"Identifer;
     A-->C;
     B-->D;
     C-->D;
