@@ -1,3 +1,11 @@
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 
 <p align="center">
   <img src="https://count.getloli.com/get/@pristinecodes?theme=rule34" alt="views" /><br>
